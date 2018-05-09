@@ -10,8 +10,7 @@ Current additional exercises:
 
 - **Numpy additional exercises**
 - **Pandas Series additional exercises**
-
-> _This list is under construction. Soon more additional exercises will be added._
+- **Pandas DataFrames additional exercises**
 
 ---
 <p align="center">
